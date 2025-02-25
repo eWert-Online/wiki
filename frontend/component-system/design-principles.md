@@ -7,10 +7,10 @@ A component-based system allows for the implementation and composition of
 loosely coupled, independent units into well-defined composite objects.
 
 1. [Modularity](#modularity)
-3. [Composition and configuration](#composition-and-configuration)
-4. [Loose coupling](#loose-coupling)
-5. [Soft encapsulation](#soft-encapsulation)
-6. [Documentation](#documentation)
+2. [Composition and configuration](#composition-and-configuration)
+3. [Loose coupling](#loose-coupling)
+4. [Soft encapsulation](#soft-encapsulation)
+5. [Documentation](#documentation)
 
 ## Modularity
 
